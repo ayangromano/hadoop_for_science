@@ -7,7 +7,7 @@ Spring 2016
 NYU-Tandon
 Prof. Juan Rodriguez
 
-<b>INTRODUCTION<b>
+<b>INTRODUCTION</b>
 
 Topic: Evaluating bioinformatics tools that can be run on Big Data-related platforms (Hadoop/MapReduce and/or Spark), specifically for the analysis of microbial genomic data.
 
