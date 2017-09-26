@@ -1,0 +1,11 @@
+Using ADAM_MAIN=org.bdgenomics.adam.cli.ADAMMain
+Using SPARK_SUBMIT=/usr/bin/spark-submit
+May 7, 2016 3:56:11 PM INFO: org.apache.parquet.hadoop.ParquetInputFormat: Total input paths to process : 2
+May 7, 2016 3:56:16 PM WARNING: org.apache.parquet.hadoop.ParquetRecordReader: Can not initialize counter due to context is not a instance of TaskInputOutputContext, but is org.apache.hadoop.mapreduce.task.TaskAttemptContextImpl
+May 7, 2016 3:56:18 PM INFO: org.apache.parquet.hadoop.InternalParquetRecordReader: RecordReader initialized will read a total of 1677068 records.
+May 7, 2016 3:56:21 PM INFO: org.apache.parquet.hadoop.InternalParquetRecordReader: at row 0. reading next block
+May 7, 2016 3:56:21 PM INFO: org.apache.parquet.hadoop.InternalParquetRecordReader: block read in memory in 587 ms. row count = 1677068
+May 7, 2016 3:57:05 PM WARNING: org.apache.parquet.hadoop.ParquetRecordReader: Can not initialize counter due to context is not a instance of TaskInputOutputContext, but is org.apache.hadoop.mapreduce.task.TaskAttemptContextImpl
+May 7, 2016 3:57:05 PM INFO: org.apache.parquet.hadoop.InternalParquetRecordReader: RecordReader initialized will read a total of 2067746 records.
+May 7, 2016 3:57:05 PM INFO: org.apache.parquet.hadoop.InternalParquetRecordReader: at row 0. reading next block
+May 7, 2016 3:57:06 PM INFO: org.apache.parquet.hadoop.InternalParquetRecordReader: block read in memory in 319 ms. row count = 2067746
